@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 const SoapPage = () => (
   <Layout>
     <SEO title="Soaps" />
-    <h1>Soaps</h1>
+    <h1>Our soaps</h1>
     
   </Layout>
 )
